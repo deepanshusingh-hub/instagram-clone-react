@@ -15,6 +15,6 @@ $ cd my-project
 $ npm start
 
 ````
-## [Demo Images](ss1.jpeg)
-## [Demo Images](ss2.jpeg)
-## [Demo Images](ss3.jpeg)
+## [Demo Images](ss1.png)
+## [Demo Images](ss2.png)
+## [Demo Images](ss3.png)
