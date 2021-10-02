@@ -1,25 +1,8 @@
 
-# Youtube Transcript Summarizer
+# Instagram Clone
 
-A chrome extension to produce summary of transcripts based on youtube videos.
-This uses Flask framework as a back-end to receive API calls and then respond with the summarized text response. This API can work only on those YouTube videos which has captions in it.
-
-
-
-
-
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
-## Setting up project
-
-#### Adding a virtual environment 
-Set up your virtual environment by running following commands
-```
-$ pip install virtualenv
-$ virtualenv <my_env_name>
-$ <my_env_name>\Scripts\activate
-```
+A clone of instagram with implemented functionalities of uploading posts, comment , authentication.
+Technology used - firebase, react.js
 
 #### Clone the project
 
@@ -29,5 +12,9 @@ $ <my_env_name>\Scripts\activate
 #### Running server
 ````
 $ cd my-project
-$ pip install requirements.txt
-$ python app.py
+$ npm start
+
+````
+## [Demo Images](ss1.jpeg)
+## [Demo Images](ss2.jpeg)
+## [Demo Images](ss3.jpeg)
